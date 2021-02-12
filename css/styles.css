@@ -37,7 +37,7 @@ hr{width: 5%;
   border-right-style: none;
   border-bottom-style: none;
   color: #112d4e;
-  margin: 5% auto;}
+  margin: 3.5% auto;}
 
 .top-container {
   background-color: #dbe2ef;
@@ -76,6 +76,11 @@ text-align: left;
 line-height: 2;
 }
 
+.contact-me {width: 50%;
+margin: 2.5rem auto 2.5rem auto;
+text-align: center;
+line-height: 2;}
+
 .coding-pic {width: 25%;
 float: left;
 margin-right: 30px;
@@ -86,11 +91,9 @@ float: right;
 margin-left: 30px;
 }
 
-.bottom-container {margin: 1% auto;
+.bottom-container {margin: 0 auto;
 background-color: #dbe2ef;
-padding: 2%;}
-
-.contact-text {margin: -1rem auto;}
+padding: 1%;}
 
 .footer-link {color: #3f72af;
   font-size: 90%;
@@ -130,7 +133,7 @@ margin: 1.4% auto auto auto;
    display: inline-block;
    cursor: pointer;
    text-align: center;
-   margin: 5% auto;
+   margin: 2% auto;
 }
 
 .btn:hover { border: solid #337FED 1px;
