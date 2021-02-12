@@ -17,7 +17,7 @@ line-height: 2;
 
 h2{
   font-family: 'Roboto', sans-serif;
-  font-size: 2rem;
+  font-size: 200%;
   color: #3f72af;
   font-weight: normal;
 }
@@ -25,6 +25,7 @@ h2{
 h3{
   font-family: 'Roboto', sans-serif;
   color: #112d4e;
+  font-size: 120%;
   }
 
 a {color: #112d4e;}
@@ -89,9 +90,10 @@ margin-left: 30px;
 background-color: #dbe2ef;
 padding: 2%;}
 
-.contact-text {margin: -1rem auto 1rem auto;}
+.contact-text {margin: -1rem auto;}
 
 .footer-link {color: #3f72af;
+  font-size: 90%;
 padding: 0 1%;
 font-weight: bold;
 text-decoration: none;}
@@ -100,7 +102,7 @@ text-decoration: none;}
 color: white;
 font-weight: bold;}
 
-.footer-sign {font-size: 0.85rem;
+.footer-sign {font-size: 60%;
 color: white;
 font-weight: bold;
 margin: 1.4% auto auto auto;
@@ -128,6 +130,7 @@ margin: 1.4% auto auto auto;
    display: inline-block;
    cursor: pointer;
    text-align: center;
+   margin: 5% auto;
 }
 
 .btn:hover { border: solid #337FED 1px;
